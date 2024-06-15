@@ -5,6 +5,9 @@ body{
     background-repeat: no-repeat;
     color: #CBCBCB;
     font-family: "Inter", sans-serif;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
 }
 
 
