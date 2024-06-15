@@ -44,7 +44,7 @@ body{
 
 .middle-part{
     display: grid;
-    grid-template-columns: 1000px 300px;
+    grid-template-columns: 1000px 900px;
     grid-template-rows: repeat(1, 500px);
 }
 .middle-part h2{
